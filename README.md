@@ -1,6 +1,8 @@
 ## Olá! eu sou a Júlia Lopes
 ## Librarian 📚| Information Specialist ❤️ | Visual Artist🖼️
 I am currently specializing in full stack development and improving my skills in UX/UI design, with a strong interest in digital marketing. At the same time, I am completing my final project in Library Science and dedicating myself to writing a book of chronicles. I am always looking for new opportunities to apply and expand my knowledge in the areas of technology, design and literature.
+
+https://julopwz.github.io/julialopwz.github.io/#inicio
 ##
 <div>
 <div align="center" style="margin-bottom:100px">
