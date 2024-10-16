@@ -18,16 +18,9 @@ https://julopwz.github.io/julialopwz.github.io/#inicio
 ## My Skills 
 
 ### Programming and Development:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django,bootstrap,heroku,visualstudio)
 
 
-### Design Tools:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+### Design Tools and Workstation Tools:
+![My Skills](https://skillicons.dev/icons?i=figma,wordpress,windows,instagram,discord,notion)
 
-### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
