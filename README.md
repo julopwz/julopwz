@@ -25,7 +25,13 @@ https://julopwz.github.io/julialopwz.github.io/#inicio
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="img src="./icons/HTML.svg" width="48" />
+    <img src="img src="./icons/HTML.svg" width="48" />
+    <img src="img src="./icons/HTML.svg" width="48" />
+  </a>
+</p>
 
 ### Design Tools:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
