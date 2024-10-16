@@ -3,16 +3,24 @@
 I am currently specializing in full stack development and improving my skills in UX/UI design, with a strong interest in digital marketing. At the same time, I am completing my final project in Library Science and dedicating myself to writing a book of chronicles. I am always looking for new opportunities to apply and expand my knowledge in the areas of technology, design and literature.
 
 ## My Skills 
-
+<div align="center" style="margin-bottom:100px">
+    
 ### Programming and Development:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django,bootstrap,heroku,visualstudio)
 
-
+</div>
+<div align="right" style="margin-bottom:100px">
+    
 ### Design Tools and Workstation Tools:
 ![My Skills](https://skillicons.dev/icons?i=figma,wordpress,windows,instagram,discord,notion)
 
-
+</div>
+<div align="right">
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julopwz&theme=transparent)
+</div>
+
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julopwz&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julopwz&theme=transparent)
 
