@@ -8,10 +8,8 @@ I am currently specializing in full stack development and improving my skills in
 ### Programming and Development:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django,bootstrap,heroku,visualstudio)
 
-</div>
-<div align="right" style="margin-bottom:100px">
     
-### Design Tools and Workstation Tools:
+### Design and Workstation Tools:
 ![My Skills](https://skillicons.dev/icons?i=figma,wordpress,windows,instagram,discord,notion)
 
 </div>
