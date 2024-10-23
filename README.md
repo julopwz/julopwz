@@ -6,11 +6,11 @@ I am currently specializing in full stack development and improving my skills in
 <div align="center" style="margin-bottom:100px">
     
 ### Programming and Development:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django,react,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django,react,bootstrap,nodejs,ts)
 
     
 ### Design and Workstation Tools:
-![My Skills](https://skillicons.dev/icons?i=figma,wordpress,windows,instagram,discord,notion,heroku,materialui,visualstudio,nodejs,ts)
+![My Skills](https://skillicons.dev/icons?i=figma,wordpress,windows,instagram,discord,notion,heroku,materialui,visualstudio)
 
 </div>
 <div align="right">
