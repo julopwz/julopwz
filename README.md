@@ -6,7 +6,7 @@ I am currently specializing in full stack development and improving my skills in
 <div align="center" style="margin-bottom:100px">
     
 ### Programming and Development:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django,bootstrap,heroku,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,django,react,bootstrap,heroku,materialui,visualstudio,nodejs,ts)
 
     
 ### Design and Workstation Tools:
